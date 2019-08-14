@@ -9,6 +9,7 @@ target 'ExperimentalDemo' do
   # Pods for vchat
   
   pod 'RealmSwift', '3.17.3'
+  pod 'ReactiveCocoa', '10.0'
 
 
 end
